@@ -4,6 +4,7 @@ course_id: 18-s34-problem-solving-seminar-fall-2007
 description: ''
 file: null
 file_location: /coursemedia/18-s34-problem-solving-seminar-fall-2007/af9131800e50aef4f16f39e49e31cdd8_hw9.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
