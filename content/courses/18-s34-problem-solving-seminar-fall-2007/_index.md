@@ -9,4 +9,4 @@ menu:
 title: ''
 uid: ba08a015-c2bf-58ed-4468-12aa527f51a0
 ---
-This course, which is geared toward Freshmen, is an undergraduate seminar on mathematical problem solving. It is intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Students in this course are expected to compete in a nationwide mathematics {{% resource_link "a0379a28-996a-4bf9-84be-3a9d2ec57dbb" "contest" %}} for undergraduates.
+This course, which is geared toward Freshmen, is an undergraduate seminar on mathematical problem solving. It is intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Students in this course are expected to compete in a nationwide mathematics [contest](http://math.scu.edu/putnam/) for undergraduates.

@@ -14,7 +14,7 @@ uid: f4cf7ec9-def8-905c-06cc-1e02f5534edd
 Description
 -----------
 
-The course is intended for students with a strong interest and considerable experience in problem solving. Participation is by invitation only; most students will be selected on the basis of their applications to the seminar. Experience in problem-solving competitions is highly desirable, such as the Mathematical Olympiad from the student's native country. All students taking the seminar are required to take the {{% resource_link "a0379a28-996a-4bf9-84be-3a9d2ec57dbb" "William Lowell Putnam Mathematical Competition" %}} on the first Saturday in December. Much (but not all) of the seminar will be geared toward preparing for this Competition.
+The course is intended for students with a strong interest and considerable experience in problem solving. Participation is by invitation only; most students will be selected on the basis of their applications to the seminar. Experience in problem-solving competitions is highly desirable, such as the Mathematical Olympiad from the student's native country. All students taking the seminar are required to take the [William Lowell Putnam Mathematical Competition](http://math.scu.edu/putnam/) on the first Saturday in December. Much (but not all) of the seminar will be geared toward preparing for this Competition.
 
 Schedule and Expectations
 -------------------------
